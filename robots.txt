@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vuzz-local.github.io/chemdry-toronto-10e34/sitemap.xml
+Sitemap: https://chemdry-toronto-10e34.pages.dev/sitemap.xml
